@@ -40,7 +40,6 @@
     "url": "https://github.com/finnfiddle/words-to-numbers.git"
   },
   "dependencies": {
-    "babel-runtime": "^6.26.0",
     "clj-fuzzy": "^0.4.1",
     "its-set": "^1.1.5"
   }
